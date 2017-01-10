@@ -9,11 +9,15 @@ For now you can read these links to understand more about Web Push and come back
 ## Why Go lang?
 Golang is a language statically linked, fast and concurrent. It is in my radar for some time and this project ask for one language like that.
 
-## More info
+## Recommended Read
 
-[https://tools.ietf.org/html/rfc8030](https://tools.ietf.org/html/rfc8030)
-[https://tools.ietf.org/html/draft-ietf-httpbis-encryption-encoding-06](https://tools.ietf.org/html/draft-ietf-httpbis-encryption-encoding-06)
-[https://webpush-wg.github.io/webpush-encryption/](https://webpush-wg.github.io/webpush-encryption/)
+- http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+
+- [https://tools.ietf.org/html/rfc8030](https://tools.ietf.org/html/rfc8030)
+
+- [https://tools.ietf.org/html/draft-ietf-httpbis-encryption-encoding-06](https://tools.ietf.org/html/draft-ietf-httpbis-encryption-encoding-06)
+
+- [https://webpush-wg.github.io/webpush-encryption/](https://webpush-wg.github.io/webpush-encryption/)
 
 ### Author
 Joffily Ferreira
